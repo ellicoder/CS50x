@@ -1,2 +1,0 @@
-# CS50x
-Solutions for CS50x 2023
