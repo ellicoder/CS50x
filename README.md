@@ -33,7 +33,7 @@ This repository contains all of projects and files made for this course:
   ## Certificate 
 
 <pre align="center">
-Finished on July 8th, 2023
+✨Finished on July 2023✨
 </pre>
 
 <a href="[https://certificates.cs50.io/48b347b6-e73e-41ba-8d8e-bff0fcb1c6c9.png?size=letter](https://certificates.cs50.io/c7cc54f0-b235-4ce0-985e-3aceb29aede0.png?size=letter)https://certificates.cs50.io/c7cc54f0-b235-4ce0-985e-3aceb29aede0.png?size=letter">
